@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Soumaya Ait Ammi</h1>
+<h3 align="center">AI & Algorithms Enthusiast | Math Graduate 🎓</h3>
 
-<!--
-**saitamm/saitamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Graduate in Mathematics
+- 🏫 Student at 1337 School
+- 🤖 Interested in AI & Machine Learning
+- 💡 Passionate about Algorithms & Problem Solving
+- 🌱 Currently learning: AI Engineering & Backend
+
+---
+
+### 🛠 Tech Stack
+
+![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
+![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+
+---
+
+### 📊 GitHub Stats
+
+![Soumaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitamm&show_icons=true&theme=dark)
+
+---
+
+### 🔗 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 💻 LeetCode: https://leetcode.com/u/soumayaaitammi
+
+---
+
+✨ *Always learning. Always growing.*
