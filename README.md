@@ -1,14 +1,14 @@
 # Hi 👋 My name is Soumaya
 
-I'm a Software Developer 💻🚀
+From Math to AI 🤖📐 | 1337 Student & Developer
 
 ---
 
 ## 👩‍💻 About Me
 
 - 🌍 Based in Morocco
-- 📍 Ifrane / Casablanca
-- 📧 Email: yourmail@gmail.com
+- 📍 Benguerir/ Marrakech
+- 📧 Email: soumayaaitammi2023@gmail.com
 - 🎓 Student at 1337
 - 💡 Passionate about AI & Backend
 
@@ -16,24 +16,24 @@ I'm a Software Developer 💻🚀
 
 ## 🛠️ Skills
 
-![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,nodejs,react,python,git,github,linux,docker,mysql,figma" />
+</p>
 
 ---
-
 ## 🌐 Socials
 
-- 💼 LinkedIn: https://linkedin.com/in/yourname
-- 🐙 GitHub: https://github.com/yourusername
+<p align="center">
+  <a href="https://github.com/saitamm">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
 
----
+  <a href="https://www.linkedin.com/in/soumaya-ait-ammi/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
 
-## 📊 GitHub Stats
+  <a href="https://x.com/yourname">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+  </a>
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
