@@ -1,39 +1,39 @@
-<h1 align="center">Hi 👋, I'm Soumaya Ait Ammi</h1>
-<h3 align="center">AI & Algorithms Enthusiast | Math Graduate 🎓</h3>
+# Hi 👋 My name is Soumaya
+
+I'm a Software Developer 💻🚀
 
 ---
 
-### 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Graduate in Mathematics
-- 🏫 Student at 1337 School
-- 🤖 Interested in AI & Machine Learning
-- 💡 Passionate about Algorithms & Problem Solving
-- 🌱 Currently learning: AI Engineering & Backend
-
----
-
-### 🛠 Tech Stack
-
-![C](https://img.shields.io/badge/C-blue?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat&logo=python)
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+- 🌍 Based in Morocco
+- 📍 Ifrane / Casablanca
+- 📧 Email: yourmail@gmail.com
+- 🎓 Student at 1337
+- 💡 Passionate about AI & Backend
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Skills
 
-![Soumaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=saitamm&show_icons=true&theme=dark)
-
----
-
-### 🔗 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 💻 LeetCode: https://leetcode.com/u/soumayaaitammi
+![C](https://img.shields.io/badge/-C-blue?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3)
 
 ---
 
-✨ *Always learning. Always growing.*
+## 🌐 Socials
+
+- 💼 LinkedIn: https://linkedin.com/in/yourname
+- 🐙 GitHub: https://github.com/yourusername
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
