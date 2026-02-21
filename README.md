@@ -1,39 +1,66 @@
-# Hi 👋 My name is Soumaya
+# Hi 👋 I'm Soumaya Ait Ammi
 
-From Math to AI 🤖📐 | 1337 Student & Developer
+**Software Engineering Student @ 1337 (UM6P) · Based in Morocco**  
+🔍 Actively looking for a **Software Engineering Internship**
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🌍 Based in Morocco
-- 📍 Benguerir/ Marrakech
-- 📧 Email: soumayaaitammi2023@gmail.com
-- 🎓 Student at 1337
-- 💡 Passionate about AI & Backend
+
+I'm a software engineering student at 1337 (42 Network) with a Bachelor's in Applied Mathematics. I build everything from low-level systems to full-stack apps — clean code, strong fundamentals, always learning.
+
+- 🌍 Based in Benguerir / Marrakech, Morocco
+- 🎓 Student at **1337 (42 Network)**
+- 💼 Open to **SWE internship opportunities** — local or remote
+- 📧 Reach me at: [soumayaaitammi2023@gmail.com](mailto:soumayaaitammi2023@gmail.com)
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
+![Python](https://skillicons.dev/icons?i=python)
+![JavaScript](https://skillicons.dev/icons?i=js)
+
+**Web & Frameworks**
+
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![React](https://skillicons.dev/icons?i=react)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+
+**Tools & Platforms**
+
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Docker](https://skillicons.dev/icons?i=docker)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,nodejs,react,python,git,github,linux,docker,mysql,figma" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saitamm&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saitamm&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
-## 🌐 Socials
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/soumaya-ait-ammi/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/saitamm)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:soumayaaitammi2023@gmail.com)
+
+---
 
 <p align="center">
-  <a href="https://github.com/saitamm">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/soumaya-ait-ammi/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-
-  <a href="https://x.com/yourname">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
-  </a>
+  <i>💬 Feel free to reach out — I'm always open to new opportunities and collaborations!</i>
 </p>
-
