@@ -1,4 +1,4 @@
-# Hi 👋 I'm Soumaya Ait Ammi
+<h1 align="center">Hi 👋 I'm Soumaya Ait Ammi</h1>
 
 **Software Engineering Student @ 1337 (UM6P) · Based in Morocco**  
 🔍 Actively looking for a **Software Engineering Internship**
