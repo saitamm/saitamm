@@ -29,6 +29,7 @@ I'm a software engineering student at **1337 (42 Network)** with a Bachelor's in
 <a href="https://nodejs.org/en/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36"  alt="NodeJS" /></a>
 <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" alt="Express" /></a>
 </p>
+
 **Tools & Platforms**
 
 <a href="https://git-scm.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36"  alt="Git" /></a>
